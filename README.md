@@ -1,1 +1,1 @@
-# reposit-rio-dio
+# repositorio-dio
